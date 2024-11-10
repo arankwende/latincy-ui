@@ -1,2 +1,2 @@
 # latincy-ui
- simple UI for latincy models
+A simple UI for latincy models
